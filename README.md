@@ -3,6 +3,7 @@
 ## Weather Dashboard 
 
 # Screenshot
+![Deployed Website](https://user-images.githubusercontent.com/127711552/235049250-6008111d-f7a9-4aa5-96fb-dfc0b1611542.PNG)
 
 
 
